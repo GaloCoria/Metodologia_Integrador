@@ -1,0 +1,23 @@
+--- 1. Registrando Solicitudes ---
+LOG: Se guardo la solicitud 1 del alumno Juan Perez
+LOG: Se guardo la solicitud 2 del alumno Maria Garcia
+LOG: Se guardo la solicitud 3 del alumno Lucas Diaz
+
+--- 2. Asignando Responsables ---
+LOG: Solicitud 1 asignada a Carlos Gomez
+Asignar Sol 1 a R1: OK
+Asignar Sol 2 a R1 (Area incorrecta): ERROR: Responsable incompatible o inactivo
+LOG: Solicitud 2 asignada a Ana Lopez
+Asignar Sol 2 a R2 (Area correcta): OK
+
+--- 3. Cambiando Estados ---
+
+--- 4. Buscando Solicitudes ABIERTAS ---
+Cantidad de abiertas: 1
+
+--- 5. Reporte General ---
+=== REPORTE DE SOLICITUDES ===
+Total: 3
+Abiertas: 1 | Asignadas: 1 | Cerradas: 1 | Rechazadas: 0
+De prioridad ALTA: 1
+
