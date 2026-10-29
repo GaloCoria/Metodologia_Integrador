@@ -11,4 +11,4 @@ Ejecutar (Java 17+):
     java -cp out org.example.SistemaSolicitudes
     java -cp out org.example.VerificacionComportamiento
 
-`evidencias/` contiene la salida de ambas versiones (identicas) y el resultado de las verificaciones.
+`../docs/evidencias/` contiene la salida de ambas versiones (identicas) y el resultado de las verificaciones.
