@@ -1,0 +1,24 @@
+[OK]   Legajo vacio
+[OK]   Nombre vacio
+[OK]   Mail invalido
+[OK]   Descripcion corta
+[OK]   Registro OK id 1
+[OK]   Registro OK id 2
+[OK]   Registro OK id 3
+[OK]   Registro urgente id 4
+[OK]   Prioridad tipo 1 = BAJA
+[OK]   Prioridad tipo 2 = MEDIA
+[OK]   Prioridad tipo 3 = ALTA
+[OK]   Prioridad urgente = ALTA
+[OK]   Asignar inexistente
+[OK]   Area incorrecta
+[OK]   Responsable inactivo
+[OK]   Responsable null
+[OK]   Asignar OK
+[OK]   Estado tras asignar
+[OK]   Cambiar a CERRADA
+[OK]   Estado invalido
+[OK]   Cambiar inexistente
+[OK]   No asignar finalizada
+[OK]   Reporte
+TODAS LAS VERIFICACIONES PASARON
